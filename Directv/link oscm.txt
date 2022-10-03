@@ -1,0 +1,1 @@
+https://idcs-f96a345674f4402caf09ebc240518ba4.identity.oraclecloud.com/ui/v1/signin
